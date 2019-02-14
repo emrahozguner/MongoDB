@@ -1,0 +1,6 @@
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\bin\Debug\MongoRepository.Domain.dll
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\bin\Debug\MongoRepository.Domain.pdb
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\obj\Debug\MongoRepository.Domain.csprojAssemblyReference.cache
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\obj\Debug\MongoRepository.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\obj\Debug\MongoRepository.Domain.dll
+C:\Users\eozguner\Desktop\MongoRepository-master\MongoRepository.Domain\obj\Debug\MongoRepository.Domain.pdb
